@@ -1,6 +1,7 @@
 # Ree-Loader
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/blxdes00/WebReloader/blob/master/LICENSE)
+
 A simple .NET console application that reloads a website at a specified interval.
 
 ## Features
