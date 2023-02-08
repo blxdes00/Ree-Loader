@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "websitereloader", "websitereloader\websitereloader.csproj", "{1FBB71F7-D999-4C43-AF01-06A15609353B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBB71F7-D999-4C43-AF01-06A15609353B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBB71F7-D999-4C43-AF01-06A15609353B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBB71F7-D999-4C43-AF01-06A15609353B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBB71F7-D999-4C43-AF01-06A15609353B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {932D593B-0BEE-4205-81BD-4C11AA67619E}
+	EndGlobalSection
+EndGlobal

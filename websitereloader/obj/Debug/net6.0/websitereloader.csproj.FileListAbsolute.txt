@@ -1,0 +1,15 @@
+C:\Users\711601\Desktop\websitereloader\websitereloader\bin\Debug\net6.0\websitereloader.exe
+C:\Users\711601\Desktop\websitereloader\websitereloader\bin\Debug\net6.0\websitereloader.deps.json
+C:\Users\711601\Desktop\websitereloader\websitereloader\bin\Debug\net6.0\websitereloader.runtimeconfig.json
+C:\Users\711601\Desktop\websitereloader\websitereloader\bin\Debug\net6.0\websitereloader.dll
+C:\Users\711601\Desktop\websitereloader\websitereloader\bin\Debug\net6.0\websitereloader.pdb
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\websitereloader.csproj.AssemblyReference.cache
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\websitereloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\websitereloader.AssemblyInfoInputs.cache
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\websitereloader.AssemblyInfo.cs
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\websitereloader.csproj.CoreCompileInputs.cache
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\websitereloader.dll
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\refint\websitereloader.dll
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\websitereloader.pdb
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\websitereloader.genruntimeconfig.cache
+C:\Users\711601\Desktop\websitereloader\websitereloader\obj\Debug\net6.0\ref\websitereloader.dll
